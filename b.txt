@@ -1,2 +1,8 @@
-PEDDO Gang Support Pupe BNK48
+<<<<<<< HEAD
+PEDDO Gang Support Pupe BNK48 by Master
+=======
+PEDDO BNK48
+Gang
+Support for Pupe BNK48 By feature2
+>>>>>>> feature2
 
