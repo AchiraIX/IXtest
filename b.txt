@@ -1,2 +1,4 @@
-PEDDO
+PEDDO BNK48
+Gang
+Support for Pupe BNK48
 
